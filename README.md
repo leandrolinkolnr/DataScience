@@ -4,8 +4,6 @@ Bem-vindo ao meu repositório dedicado aos estudos em ciência de dados utilizan
 
 </br>
 </br>
-</br>
-</br>
 
 ### Conteúdo do Repositório
 
@@ -13,6 +11,8 @@ Bem-vindo ao meu repositório dedicado aos estudos em ciência de dados utilizan
 - **Tratamento de Dados:** Tutoriais sobre limpeza e preparação de dados.
 - **Estatísticas:** Material relacionado a análise estatística.
 - **Machine Learning:** Implementações e estudos de algoritmos de aprendizado de máquina.
+
+</br>
 
 ## Bibliotecas mais utilizadas:
 
