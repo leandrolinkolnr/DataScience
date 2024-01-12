@@ -13,7 +13,6 @@ Bem-vindo ao meu repositório dedicado aos estudos em ciência de dados utilizan
 - **Machine Learning:** Implementações e estudos de algoritmos de aprendizado de máquina.
 
 </br>
-</br>
 
 ## Autor
 
