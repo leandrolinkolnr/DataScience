@@ -16,13 +16,13 @@ Bem-vindo ao meu repositório dedicado aos estudos em ciência de dados utilizan
 
 - **Pandas:** Biblioteca para tratamento, manipulação e análise de dados.
 
-- **NumPy:** Biblioteca essencial para computação numérica em Python, oferecendo suporte a arrays multidimensionais e operações matemáticas eficientes.
+- **NumPy:** Biblioteca essencial para manipulação e operações matemáticas em Python.
 
 - **Seaborn:** Biblioteca de visualização estatística que permite gráficos informativos e esteticamente agradáveis.
 
 - **Matplotlib:** Ferramenta abrangente para gráficos, permitindo a visualização de maneira flexível e personalizada.
 
-- **scikit-learn:** Biblioteca de aprendizado de máquina que fornece ferramentas eficientes para tarefas como classificação, regressão, clustering e pré-processamento de dados.
+- **Scikit-learn:** Biblioteca de aprendizado de máquina que fornece ferramentas eficientes para tarefas como classificação, regressão, clustering e pré-processamento de dados.
 
 </br>
 
