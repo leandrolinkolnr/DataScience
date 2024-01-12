@@ -4,8 +4,9 @@ Bem-vindo ao meu repositório dedicado aos estudos em ciência de dados utilizan
 
 </br>
 </br>
+</br>
 
-## Conteúdo do Repositório
+### Conteúdo do Repositório
 
 - **Exploração de Dados:** Roteiros e notebooks explorando conjuntos de dados.
 - **Tratamento de Dados:** Tutoriais sobre limpeza e preparação de dados.
