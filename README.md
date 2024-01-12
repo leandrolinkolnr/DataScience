@@ -1,4 +1,4 @@
-# Meu Repositório de Ciência de Dados com Python
+# Estudos: Ciência de Dados com Python
 </br>
 Bem-vindo ao meu repositório dedicado aos estudos em ciência de dados utilizando Python. Aqui você encontrará uma variedade de estudos e roteiros elaborados por mim, abrangendo áreas como exploração e tratamento de dados, estatísticas, machine learning, entre outros.
 
