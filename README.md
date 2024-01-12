@@ -5,6 +5,7 @@ Bem-vindo ao meu repositório dedicado aos estudos em ciência de dados utilizan
 </br>
 </br>
 </br>
+</br>
 
 ### Conteúdo do Repositório
 
